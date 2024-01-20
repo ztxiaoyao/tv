@@ -71,7 +71,7 @@
       "name": "日后线路有问题"
     },
     {
-      "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+      "url": "https://gitee.com/guot54/YGBH777/raw/main/ygbox.json",
       "name": "月光宝盒"
     },
     {
