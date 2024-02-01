@@ -195,7 +195,10 @@
       "url": "http://qixing.myhkw.com/QX/api.json",
       "name": "🚀七星影视VIP线"
     },
-
+{
+      "url": "https://tvkj888.cn/QX/svip.json",
+      "name": "🚀七星影视VIP线1"
+    },
     {
       "url": "http://tvkj.top/DC/al/tvkj/svip.json",
       "name": "🚀阿里专线"
