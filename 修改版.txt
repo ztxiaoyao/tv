@@ -25,11 +25,7 @@
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "香雅情线"
-    },
-    {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQ.json",
-      "name": "香雅情线1"
-    },    
+    },   
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
       "name": "小米线路"
