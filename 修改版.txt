@@ -11,7 +11,7 @@
       "name": "饭硬专线"
     },
     {
-      "url": "http://tvkj.top/DC/fm/tvkj/svip.json",
+      "url": "http://肥猫.live",
       "name": "肥猫线路1"
     },
     {
