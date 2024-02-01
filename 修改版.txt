@@ -15,7 +15,7 @@
       "name": "肥猫线路1"
     },
     {
-      "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
+      "url": "https://agit.ai/leevi/PlG/raw/branch/master/jsm.json",
       "name": "PG"
     },
     {
