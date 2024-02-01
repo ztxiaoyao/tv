@@ -123,8 +123,8 @@
         "name": "小马线路"
       },
       {
-        "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-        "name": "业余线路"
+        "url": "https://tv.lan2wan.top/candymuj.json",
+        "name": "看电影"
       },    
       {
         "url": "http://rihou.cc:88/荷城茶秀",
@@ -139,8 +139,8 @@
         "name": "高天流水"
       },
       {
-        "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
-        "name": "圆周率线路"
+        "url": "https://lltv8.top",
+        "name": "猎狼"
       },
       {
         "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
