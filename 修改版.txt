@@ -27,7 +27,7 @@
       "name": "香雅情线"
     },
     {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQ.json",
       "name": "香雅情线1"
     },    
     {
