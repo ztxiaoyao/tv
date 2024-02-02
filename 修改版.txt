@@ -70,10 +70,6 @@
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
       "name": "月光宝盒"
     },
-        {
-      "url": "https://gitee.com/guot54/YGBH777/raw/main/dc2.json",
-      "name": "月光宝盒1"
-    },
     {
         "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
         "name": "讴歌专线"
