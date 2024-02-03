@@ -11,6 +11,15 @@
       "url": "http://我不是.摸鱼儿.top"
     },
     {
+      "name": "直播",
+      "type": 0,
+      "url": "https://gitee.com/ztxiaoyao/tv/raw/master/0203live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "url": "http://饭太硬.top/tv",
       "name": "饭太硬专线"
     },
