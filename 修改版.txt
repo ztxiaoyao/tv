@@ -13,7 +13,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "https://gitee.com/ztxiaoyao/tv/raw/master/0203live.txt",
+      "url": "https://gitee.com/ztxiaoyao/tv/master/0203live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
