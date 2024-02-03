@@ -51,7 +51,7 @@
       "name": "菜妮丝线"
     },
     {
-      "url": "https://la.kstore.space/download/2863/01.txt",
+      "url": "https://cn.kstore.space/download/2863/01.txt",
       "name": "潇洒线路"
     },
     {
