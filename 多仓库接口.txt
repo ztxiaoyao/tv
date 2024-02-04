@@ -10,6 +10,18 @@
 {
 "sourceName": "💕心动仓库💕",
 "sourceUrl": "https://atomgit.com/hengxing/hx/raw/master/XD.txt"
+},
+{
+"sourceName": "💕宝盒多仓库3💕",
+"sourceUrl": "https://gitee.com/guot54/YGBH777/raw/main/dc3.json"
+},
+{
+"sourceName": "💕宝盒多仓库1💕",
+"sourceUrl": "https://gitee.com/guot54/YGBH777/raw/main/dc.json"
+},
+{
+"sourceName": "💕宝盒多仓库2💕",
+"sourceUrl": "https://gitee.com/guot54/YGBH777/raw/main/dc2.json"
 }
 ]
 }
