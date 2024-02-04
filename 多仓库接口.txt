@@ -1,0 +1,15 @@
+{
+"storeHouse": [{
+"sourceName": "💕恒星仓库💕",
+"sourceUrl": "https://atomgit.com/hengxing/hx/raw/master/hxck1.txt"
+},
+{
+"sourceName": "💕李定忠仓库💕",
+"sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
+},
+{
+"sourceName": "💕心动仓库💕",
+"sourceUrl": "https://atomgit.com/hengxing/hx/raw/master/XD.txt"
+}
+]
+}
