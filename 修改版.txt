@@ -99,24 +99,12 @@
         "name": "分享者线路"
       },
       {
-        "url": "http://sx.liuyun.wang:88/img",
-        "name": "神仙线路"
-      },
-      {
-        "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-        "name": "不良帅线路"
-      },
-      {
         "url": "http://meowtv.cn/tv",
         "name": "喵影视线路"
       },
       {
         "url": "https://www.macms.pro/box/3.json",
         "name": "万达线路"
-      },
-      {
-        "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json",
-        "name": "kvymin线路"
       },
       {
         "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
@@ -151,17 +139,10 @@
         "name": "猎狼"
       },
       {
-        "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
-        "name": "月月线路"
-      },
-      {
         "url": "https://wds.ecsxs.com/230989.json",
         "name": "🚀春盈线路"
       },
-      {
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-        "name": "二哈线路"
-      },
+
       {
         "url": "http://cdn.qiaoji8.com/tvbox.json",
         "name": "巧技线路"
@@ -176,16 +157,6 @@
     {
       "url": "http://我不是.肥猫.live/接口禁止贩卖",
       "name": "肥猫线路"
-    },
-
-    {
-      "url": "http://tvkj.top/DC/nf/tvkj/svip.json",
-      "name": "天微科技"
-    },
-
-{
-      "name": "🍎鼎盛原小苹果🍎",
-      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json"
     },
    {
       "name": "🏆荷城茶秀",
@@ -202,48 +173,7 @@
 {
       "url": "https://tvkj888.cn/QX/svip.json",
       "name": "🚀七星影视VIP线1"
-    },
-    {
-      "url": "http://tvkj.top/DC/al/tvkj/svip.json",
-      "name": "🚀阿里专线"
-    },
-
-    {
-      "url": "http://tvkj.top/DC/hccx/tvkj/svip.json",
-      "name": "🚀荷城茶秀"
     },  
-
-        {
-      "url": "https://codeberg.org/xmbjm/xmbjmjk/raw/branch/main/vip4k.json",
-      "name": "🚀拾光专线"
-    },
-
-    {
-      "url": "http://tvkj.top/DC/dd/tvkj/svip.json",
-      "name": "🚀多多家庭"
-    },
-
-    {
-      "url": "https://d.kstore.space/download/4690/公益/烂番茄.json",
-      "name": "🚀无敌乌鸦"
-    },
-    {
-      "url": "http://tvkj.top/DC/sj/tvkj/svip.json",
-      "name": "🚀4K视界"
-    },
-    {
-      "url": "https://download.kstore.space/download/5242/冉神.json",
-      "name": "🚀冉神接口"
-    },
-   
-    {
-      "url": "http://tvkj.top/DC/fmi/tvkj/svip.json",
-      "name": "🚀蜂蜜线路"
-    },
-    {
-      "url": "http://jin.锦哥哥.love",
-      "name": "🚀一十线路"
-    },
     {
       "url": "https://atomgit.com/hengxing/hx/raw/master/hxzx.txt",
       "name": "🚀恒星线路"
