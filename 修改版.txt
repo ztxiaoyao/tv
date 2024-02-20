@@ -19,8 +19,8 @@
       "name": "肥猫线路1"
     },
     {
-      "url": "https://agit.ai/leevi/PlG/raw/branch/master/jsm.json",
-      "name": "PG苹果"
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "小苹果"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
