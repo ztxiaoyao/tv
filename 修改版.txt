@@ -19,8 +19,8 @@
       "name": "肥猫线路1"
     },
     {
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "小苹果"
+      "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
+      "name": "视界线路"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
