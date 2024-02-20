@@ -71,8 +71,8 @@
       "name": "月光宝盒"
     },
      {
-      "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json ",
-      "name": "月光宝盒1"
+      "url": "https://www.xn--rgv465a.top/wj.json  ",
+      "name": "无界线路"
     },
     {
         "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
