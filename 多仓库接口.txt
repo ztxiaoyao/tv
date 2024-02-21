@@ -1,17 +1,9 @@
 {
 "storeHouse": [
 {
-"sourceName": "💕李定忠仓库💕",
+"sourceName": "💕自用仓库💕",
 "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
 },   
-{
-"sourceName": "💕恒星仓库💕",
-"sourceUrl": "https://atomgit.com/hengxing/hx/raw/master/hxck1.txt"
-},
-{
-"sourceName": "💕心动仓库💕",
-"sourceUrl": "https://atomgit.com/hengxing/hx/raw/master/XD.txt"
-},
 { "sourceName": "摸鱼儿🐟小鱼干",
      "sourceUrl": "https://atomgit.com/moyuer/svip/raw/master/dan/摸鱼儿.小鱼干.json" 
     }, 
