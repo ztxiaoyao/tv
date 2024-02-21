@@ -46,11 +46,11 @@
     { "sourceName": "摸摸🐟欧歌",
      "sourceUrl": "http://tv.nxog.top/" 
     }, 
-    {"sourceName":"多多优选仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/ck/a.txt"},
-{"sourceName":"多多公众仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/ck/b.txt"},
-{"sourceName":"多多聚合仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/ck/c.txt"},
-{"sourceName":"多多预备仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/ck/d.txt"},
-{"sourceName":"多多家庭仓","sourceUrl":"https://atomgit.com/iduo/DDBox/raw/master/duo.json"},
+{"sourceName":"多多优选仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck%2Fa.txt?ref=main"},
+{"sourceName":"多多公众仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck%2Fb.txt?ref=main"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck%2Fc.txt?ref=main"},
+{"sourceName":"多多预备仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck%2Fd.txt?ref=main"},
+{"sourceName":"多多家庭仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
     { "sourceName": "摸鱼儿.小鱼干🐟提示您排名不分先后", 
      "sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓2.json" 
     },
