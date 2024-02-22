@@ -74,7 +74,7 @@
               "api": "csp_PanQuSou",
               "searchable": 1,
               "changeable": 1,
-              "ext": "./lib/quark.json"
+              "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },
             {
               "key": "夸克|Qk搜索",
@@ -83,7 +83,7 @@
               "api": "csp_QkSearch",
               "searchable": 1,
               "changeable": 1,
-              "ext": "./lib/quark.json"
+              "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },
             {
                 "key": "夸克|易搜",
@@ -92,7 +92,7 @@
                 "api": "csp_YiSoQuark",
                 "searchable": 1,
                 "changeable": 1,
-                "ext": "./lib/quark.json"
+                "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },
             {
               "key": "夸克|爱盘索",
@@ -101,7 +101,7 @@
               "api": "csp_AiPanSou",
               "searchable": 1,
               "changeable": 1,
-              "ext": "./lib/quark.json"
+              "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },
             {
               "key": "夸克|秒搜",
@@ -110,7 +110,7 @@
               "api": "csp_MiaoSouQuark",
               "searchable": 1,
               "changeable": 1,
-              "ext": "./lib/quark.json"
+              "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             }, 
             {
                 "key": "阿夸|校长",
@@ -120,7 +120,7 @@
                 "searchable": 1,
                 "changeable": 1,
                 "quickSearch": 1,
-                "ext": "./lib/quark.json"
+                "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },         
             {
                 "key": "阿夸|团长",
@@ -130,7 +130,7 @@
                 "searchable": 1,
                 "changeable": 1,
                 "quickSearch": 1,
-                "ext": "./lib/quark.json"
+                "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/quark.json"
             },
             {
             "key": "阿里|玩偶",
@@ -141,7 +141,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|运输",
@@ -152,7 +152,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|秒搜",
@@ -161,7 +161,7 @@
             "api": "csp_MiaoSouAli",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|易搜",
@@ -170,7 +170,7 @@
             "api": "csp_YiSoAli",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|云搜",
@@ -179,7 +179,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|盘搜",
@@ -188,7 +188,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|盘搜索",
@@ -197,7 +197,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|小纸条",
@@ -206,7 +206,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },
         {
             "key": "阿里|七夜",
@@ -215,7 +215,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/ali.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/lib/ali.json"
         },  
        {
             "key": "聚短视频js",
