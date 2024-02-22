@@ -9,7 +9,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./libs/py_cctv.py"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/py_cctv.py"
         },
         {
             "key": "豆瓣",
@@ -18,7 +18,7 @@
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
-            "ext": "./libs/douban.json"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/douban.json"
         },
         {
             "key": "阿里夸克配置",
@@ -36,7 +36,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./libs/m1905.py"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/m1905.py"
         },
         {
             "key": "py_返老还童",
@@ -46,7 +46,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./libs/py_kt30.py"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/py_kt30.py"
         },
         {
             "key": "py_yhdm6",
@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./libs/py_yhdm6.py"
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/py_yhdm6.py"
         },         
         {
               "key": "荐片",
@@ -221,8 +221,8 @@
             "key": "聚短视频js",
             "name": "短剧",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./libs/duanjv.js",
+            "api": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/drpy2.min.js",
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/duanjv.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -231,29 +231,29 @@
             "key": "QTV",
             "name": "腾讯4K",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./libs/txvip.js"
+            "api": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/drpy2.min.js",
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/txvip.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "酷喵影视",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./libs/优酷.js"
+            "api": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/drpy2.min.js",
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/优酷.js"
         },
         {
             "key": "drpy_js_百忙无果",
             "name": "芒果TV",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./libs/百忙无果.js"
+            "api": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/drpy2.min.js",
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/百忙无果.js"
         },
         {
             "key": "爱奇异",
             "name": "爱奇艺(官)",
             "type": 3,
-            "api": "./libs/drpy2.min.js",
-            "ext": "./libs/aiqiyi.js"
+            "api": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/drpy2.min.js",
+            "ext": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/aiqiyi.js"
         }
     ],
     "parses": [
@@ -302,7 +302,7 @@
         {
             "name": "SAO0",
             "type": 0,
-            "url": "./libs/tvlive.txt",
+            "url": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/tvlive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -311,7 +311,7 @@
         {
             "name": "IPV6",
             "type": 0,
-            "url": "./libs/ipv6.m3u",
+            "url": "https://gitee.com/ztxiaoyao/tv/tree/master/TV1/libs/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
