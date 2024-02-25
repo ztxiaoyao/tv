@@ -170,18 +170,6 @@
       "url": "http://qixing.myhkw.com/QX/api.json",
       "name": "🚀七星影视VIP线"
     },
-{
-      "url": "https://tvkj888.cn/QX/svip.json",
-      "name": "🚀七星影视VIP线1"
-    },  
-    {
-      "url": "https://atomgit.com/hengxing/hx/raw/master/hxzx.txt",
-      "name": "🚀恒星线路"
-    },
-    {
-      "url": "http://qrh.yimkj.cn/ym/壹梦.json",
-      "name": "🚀壹梦专线"
-    },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高天流云"
