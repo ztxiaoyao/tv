@@ -19,7 +19,7 @@
       "name": "专心养肥猫"
     },
     {
-      "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
+      "url": "https://gitee.com/hsyw/test/blob/master/1222%E5%A4%9A%E4%BB%93.json",
       "name": "视界那么大，我想去看看"
     },
     {
