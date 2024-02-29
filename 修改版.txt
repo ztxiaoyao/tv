@@ -19,8 +19,8 @@
       "name": "专心养肥猫"
     },
     {
-      "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
-      "name": "视界那么大，我想去看看"
+      "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+      "name": "PG路线"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
@@ -59,12 +59,12 @@
       "name": "南风线路"
     },
     {
-      "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-      "name": "PG线路"
+      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+      "name": "D佬魔改线路"
     },
     {
       "url": "http://rihou.vip:55/天天开心",
-      "name": "日后线路有问题"
+      "name": "开心线路"
     },
     {
       "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
