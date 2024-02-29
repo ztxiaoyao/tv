@@ -7,28 +7,28 @@
      "url": "http://39.101.135.137:8080"
     }, 
     {
-      "name": "🐟摸鱼接口🐟",
+      "name": "🐟上班摸鱼接口🐟",
       "url": "http://我不是.摸鱼儿.top"
     },
     {
       "url": "http://饭太硬.top/tv",
-      "name": "饭太硬专线"
+      "name": "你做的饭太硬"
     },
     {
       "url": "http://肥猫.live",
-      "name": "肥猫线路1"
+      "name": "专心养肥猫"
     },
     {
       "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
-      "name": "视界线路"
+      "name": "视界那么大，我想去看看"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "道长线路"
+      "name": "找到一个道长"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "香雅情线"
+      "name": "居然谈香雅情"
     },   
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
