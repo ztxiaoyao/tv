@@ -8,7 +8,7 @@
     }, 
     {
       "name": "🐟上班摸鱼接口🐟",
-      "sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓.json"
+      "Url": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓.json"
     },
     {
       "url": "http://饭太硬.top/tv",
