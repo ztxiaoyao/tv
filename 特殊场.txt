@@ -6,7 +6,7 @@
   },
   {
    "name": "月光宝盒", 
-   "url": " https://agit.ai/guot54/ygbh/raw/branch/master/h/pro24.json"
+   "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/pro24.json"
   },
   {
    "name": "CandyMuj", 
