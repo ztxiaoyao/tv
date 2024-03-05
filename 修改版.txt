@@ -67,7 +67,7 @@
       "name": "开心线路"
     },
     {
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json",
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/prox.json",
       "name": "月光宝盒"
     },
      {
