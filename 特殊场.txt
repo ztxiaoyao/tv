@@ -5,6 +5,10 @@
    "url": "https://github.com/gaotianliuyun/gao/raw/master/9918.json"
   },
   {
+   "name": "月光宝盒", 
+   "url": " https://agit.ai/guot54/ygbh/raw/branch/master/h/pro24.json"
+  },
+  {
    "name": "CandyMuj", 
    "url": "https://tv.lan2wan.top/candymuj18.json"
   },
