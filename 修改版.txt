@@ -127,7 +127,7 @@
         "name": "荷城茶秀"
       },
       {
-        "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+        "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/pro24.json",
         "name": "夜猫子"
       },
       {
