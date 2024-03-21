@@ -65,7 +65,9 @@
 
 {"sourceName":"⑦🌟星星影视多仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
 {"sourceName":"⑧🌴青木影视多仓库","sourceUrl":"http://530.my3v.work/qm.json"},
-{"sourceName":"月光宝盒多仓库","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbh.json"},
+{"sourceName":"🌙月光优选仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
+{"sourceName":"🌙月光大佬","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
+{"sourceName":"🌙月光宝盒仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/c.txt"},
 
 {"sourceName":"⑨🕵 宋歌影视多仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"},
 {"sourceName":"⑩🛀🏻 小白影视多仓库","sourceUrl":"http://39.101.135.137:8686/"},
