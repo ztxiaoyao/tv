@@ -22,7 +22,7 @@
     },
     {
       "sourceName": "摸摸🐟恒星",
-      "sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓2.json"
+      "sourceUrl": "https://atomgit.com/smdy/top-level/raw/master/qing.json"
     },
     { "sourceName": "摸摸🐟蜂蜜",
       "sourceUrl": "http://fmys.top/online.json"
