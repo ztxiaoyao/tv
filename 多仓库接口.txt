@@ -68,7 +68,7 @@
 {"sourceName":"🌙月光优选仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"🌙月光大佬","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
 {"sourceName":"🌙月光宝盒仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/c.txt"},
-
+{"sourceName":"🌙月光宝盒4.4多仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"},
 {"sourceName":"⑨🕵 宋歌影视多仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"},
 {"sourceName":"⑩🛀🏻 小白影视多仓库","sourceUrl":"http://39.101.135.137:8686/"},
 {"sourceName":"11🆔 拾光影视多仓库","sourceUrl":"https://ghps.cc/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
