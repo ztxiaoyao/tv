@@ -4,14 +4,7 @@
 "sourceName": "💕自用仓库💕",
 "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
 },   
-{
-      "sourceName": "摸鱼儿🐟小鱼干",
-      "sourceUrl": "https://atomgit.com/moyuer/svip/raw/master/dan/摸鱼儿.小鱼干.json"
-    },
-    {
-      "sourceName": "摸摸🐟小鱼干",
-      "sourceUrl": "https://atomgit.com/smdy/xyg/raw/master/小鱼干单仓.json"
-    },
+
     {
       "sourceName": "摸摸🐟天微",
       "sourceUrl": "https://tvkj.top/DC.txt"
@@ -20,10 +13,7 @@
       "sourceName": "摸摸🐟蓝色",
       "sourceUrl": "https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json"
     },
-    {
-      "sourceName": "摸摸🐟恒星",
-      "sourceUrl": "https://atomgit.com/smdy/top-level/raw/master/qing.json"
-    },
+ 
     { "sourceName": "摸摸🐟蜂蜜",
       "sourceUrl": "http://fmys.top/online.json"
     },
