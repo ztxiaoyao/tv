@@ -4,10 +4,6 @@
             "sourceName": "💕自用仓库💕",
             "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
         },
-        {
-            "sourceName": "摸摸🐟天微",
-            "sourceUrl": "https://tvkj.top/DC.txt"
-        },
        
         {
             "sourceName": "摸摸🐟蜂蜜",
