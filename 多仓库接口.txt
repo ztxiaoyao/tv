@@ -9,10 +9,7 @@
             "sourceName": "摸摸🐟蜂蜜",
             "sourceUrl": "http://fmys.top/online.json"
         },
-        {
-            "sourceName": "摸摸🐟拾光",
-            "sourceUrl": "https://d.kstore.space/download/4708/dc.json"
-        },
+       
         {
             "sourceName": "摸摸🐟心动",
             "sourceUrl": "http://rihou.vip:666"
@@ -28,10 +25,6 @@
         {
             "sourceName": "摸摸🐟云星",
             "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
-        },
-        {
-            "sourceName": "摸摸🐟壹梦",
-            "sourceUrl": "http://qrh.yimkj.cn/壹梦多仓.json"
         },
         {
             "sourceName": "摸摸🐟欧歌",
@@ -56,10 +49,6 @@
         {
             "sourceName": "多多家庭仓",
             "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"
-        },
-        {
-            "sourceName": "摸鱼儿.小鱼干🐟提示您排名不分先后",
-            "sourceUrl": "http://小鱼干.摸鱼儿.top"
         },
         {
             "sourceName": "①🥝金鹰影视多仓库",
