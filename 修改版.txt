@@ -26,6 +26,14 @@
         "url": "https://盒子迷.top/4K",
         "name": "盒子迷4K"
       },
+      {
+        "url": "https://安卓哥.com/",
+        "name": "安卓哥"
+      },
+      {
+        "url": "https://hezi.tvboxhz.top/TVBOX盒子",
+        "name": "TVBOX盒子"
+      },
     {
       "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
       "name": "PG路线"
