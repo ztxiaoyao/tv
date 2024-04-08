@@ -34,6 +34,10 @@
         "url": "https://hezi.tvboxhz.top/TVBOX盒子",
         "name": "TVBOX盒子"
       },
+      {
+        "url": "http://小鱼干.摸鱼儿.top",
+        "name": "摸鱼儿"
+      },
     {
       "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
       "name": "PG路线"
