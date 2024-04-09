@@ -140,7 +140,7 @@
         },
         {
             "sourceName": "18🛰蓝色大佬影视库",
-            "sourceUrl": "https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json"
+            "sourceUrl": "http://1.v.nxog.top/api.php?b=%E6%AC%A7%E6%AD%8C129&id=1"
         },
         {
             "sourceName": "19🥥拾光源口多仓库",
