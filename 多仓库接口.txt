@@ -6,7 +6,7 @@
         },
         {
             "sourceName": "陆哥多仓库",
-            "sourceUrl": "https://gitee.com/tanghengice/lugemovie/blob/master/lugemovie.txt "
+            "sourceUrl": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie.txt"
         },
        {
             "sourceName": "柠檬多仓库",
