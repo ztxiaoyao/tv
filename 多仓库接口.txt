@@ -147,8 +147,8 @@
             "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json"
         },
         {
-            "sourceName": "21🎭欧歌视频多仓库",
-            "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌 "
+            "sourceName": "21🎭陆哥多仓库",
+            "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E9%99%86%E5%93%A5%E6%8E%A5%E5%8F%A3.json "
         },
         {
             "sourceName": "22🍷蚂蚁影视二仓库",
