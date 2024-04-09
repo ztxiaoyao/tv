@@ -63,7 +63,7 @@
         },
         {
             "sourceName": "③🥣沐大神呀多仓库",
-            "sourceUrl": "https://agit.ai/2011820123/tv/raw/branch/master/all.json"
+            "sourceUrl": "https://agit.ai/2011820123/tv/raw/commit/372531fb26fdd7f2af9451e97c79a63ab3d7835e/all.json"
         },
         {
             "sourceName": "④🍚饭太硬多仓仓库",
