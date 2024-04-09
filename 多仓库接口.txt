@@ -4,6 +4,10 @@
             "sourceName": "💕自用仓库💕",
             "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
         },
+        {
+            "sourceName": "陆哥多仓库",
+            "sourceUrl": "https://gitee.com/tanghengice/lugemovie/blob/master/lugemovie.txt "
+        },
        {
             "sourceName": "柠檬多仓库",
             "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json"
