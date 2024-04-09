@@ -135,8 +135,8 @@
             "sourceUrl": "https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"
         },
         {
-            "sourceName": "18🛰蓝色大佬影视库",
-            "sourceUrl": "http://1.v.nxog.top/api.php?b=%E6%AC%A7%E6%AD%8C129&id=1"
+            "sourceName": "18🛰智界库影视库",
+            "sourceUrl": "https://www.agit.ai/1018610504/feng/raw/branch/master/many.txt"
         },
         {
             "sourceName": "19🥥拾光源口多仓库",
