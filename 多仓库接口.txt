@@ -152,7 +152,7 @@
         },
         {
             "sourceName": "21🎭欧歌视频多仓库",
-            "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://w.nxog.top&xl=1&b=欧歌"
+            "sourceUrl": "  http://tv.nxog.top/ "
         },
         {
             "sourceName": "22🍷蚂蚁影视二仓库",
