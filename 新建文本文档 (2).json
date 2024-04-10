@@ -1,1 +1,20 @@
-{ "storeHouse": [ { "sourceName": "🌹欧歌809主仓库🌹", "sourceUrl": "http://1.v.nxog.top/nxog/ou1.php?b=欧歌809" }, { "sourceName": "🌷欧歌809备1仓库🌷", "sourceUrl": "http://1.t.nxog.top/nxog/ou1.php?b=欧歌809" }, { "sourceName": "🌷欧歌809备2仓库🌷", "sourceUrl": "http://1.a.欧.我爱你/nxog/ou1.php?b=欧歌809" }, { "sourceName": "☘️欧歌809本地肋手仓库☘️", "sourceUrl": "clan://localhost/tvbox/dc.txt" } ] }
+{
+    "storeHouse": [
+        {
+            "sourceName": "🌹欧歌809主仓库🌹",
+            "sourceUrl": "http://1.v.nxog.top/nxog/ou1.php?b=欧歌809"
+        },
+        {
+            "sourceName": "🌷欧歌809备1仓库🌷",
+            "sourceUrl": "http://1.t.nxog.top/nxog/ou1.php?b=欧歌809"
+        },
+        {
+            "sourceName": "🌷欧歌809备2仓库🌷",
+            "sourceUrl": "http://1.a.欧.我爱你/nxog/ou1.php?b=欧歌809"
+        },
+        {
+            "sourceName": "☘️欧歌809本地肋手仓库☘️",
+            "sourceUrl": "clan://localhost/tvbox/dc.txt"
+        }
+    ]
+}
