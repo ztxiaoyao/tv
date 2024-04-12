@@ -18,6 +18,10 @@
       "name": "🐟春盈天下备用🐟",
       "url": "https://盒子迷.top/春盈天下"
     },
+    {
+      "url": "https://www.agit.ai/1018610504/abac1984/raw/branch/master/fan.json",
+      "name": "fang最新"
+    },
      {
         "url": "https://盒子迷.top/禁止贩卖",
         "name": "盒子迷"
