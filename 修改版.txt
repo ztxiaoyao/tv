@@ -169,7 +169,7 @@
       },
       {
        // "url": "https://wds.ecsxs.com/230989.json",
-      "url": "https://pan.shangui.cc/f/dDZLTo/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.txt", 
+      "url": "https://pan.shangui.cc/f/dDZLTo/cytx.txt", 
         "name": "🚀春盈线路"
       },
 
