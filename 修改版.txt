@@ -7,8 +7,8 @@
      "url": "http://39.101.135.137:8080"
     }, 
     {
-      "url": "http://饭太硬.top/tv",
-      "name": "你做的饭太硬"
+      "url": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt",
+      "name": "你做的饭太硬陆哥自用"
     },
     {
       "url": "http://肥猫.live",
