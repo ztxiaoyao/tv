@@ -8,7 +8,7 @@
     }, 
     {
       "url": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt",
-      "name": "你做的饭太硬陆哥自用"
+      "name": "陆哥专用"
     },
     {
       "url": "http://肥猫.live",
