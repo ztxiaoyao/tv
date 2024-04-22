@@ -148,7 +148,7 @@
         },
         {
             "sourceName": "21🎭陆哥多仓库",
-            "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E9%99%86%E5%93%A5%E6%8E%A5%E5%8F%A3.json "
+            "sourceUrl": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt "
         },
         {
             "sourceName": "22🍷蚂蚁影视二仓库",
