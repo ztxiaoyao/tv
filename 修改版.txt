@@ -7,7 +7,7 @@
      "url": "http://39.101.135.137:8080"
     }, 
     {
-      "url": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt",
+      "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
       "name": "陆哥专用"
     },
     {
