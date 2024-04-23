@@ -19,7 +19,7 @@
       "url": "https://盒子迷.top/春盈天下"
     },
     {
-      "url": "https://152.32.170.60/1018610504/abac1984/raw/branch/master/fan.json",
+      "url": "https://notabug.org/kite/feng/raw/master/feng.json",
       "name": "fang最新"
     },
      {
