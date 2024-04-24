@@ -101,6 +101,11 @@
             "sourceName": "🌙月光宝盒4.4多仓",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"
         },
+         {
+            "sourceName": "🌙月光宝盒应用合集",
+            "sourceUrl": " https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/market.json"
+        },
+       
         {
             "sourceName": "⑨🕵 宋歌影视多仓库",
             "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"
