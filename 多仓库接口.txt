@@ -35,7 +35,7 @@
         },
                 {
             "sourceName": "永远的仓库",
-            "sourceUrl": "https://152.32.170.60/ystvy/yydsy/src/branch/master/x.tx"
+            "sourceUrl": "https://152.32.170.60/ystvy/yydsy/src/branch/master/x.txt"
         },
         {
             "sourceName": "💚多多优选仓🍭软件接口🍭",
