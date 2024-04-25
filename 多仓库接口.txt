@@ -33,6 +33,10 @@
             "sourceName": "摸摸🐟欧歌",
             "sourceUrl": "http://tv.nxog.top/"
         },
+                {
+            "sourceName": "永远的仓库",
+            "sourceUrl": "https://152.32.170.60/ystvy/yydsy/src/branch/master/x.tx"
+        },
         {
             "sourceName": "💚多多优选仓🍭软件接口🍭",
             "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"
