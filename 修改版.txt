@@ -48,7 +48,7 @@
     },
     
     {
-      "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+      "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
       "name": "PG路线"
     },
     {
