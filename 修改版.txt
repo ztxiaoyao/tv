@@ -128,7 +128,7 @@
         "name": "星辰线路"
       },
       {
-        "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+        "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
         "name": "分享者线路"
       },
       {
@@ -160,7 +160,7 @@
         "name": "荷城茶秀"
       },
       {
-        "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/pro24.json",
+        "url": "https://152.32.170.60/guot54/ygbh/raw/branch/master/h/pro24.json",
         "name": "夜猫子"
       },
       {
@@ -192,7 +192,7 @@
     },
    {
       "name": "🏆荷城茶秀",
-      "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
+      "url": "https://152.32.170.60/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
     },
  {
       "url": "https://qixing.myhkw.com/tianwei/svip.json",
@@ -236,11 +236,11 @@
     },
 
     {
-      "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
+      "url": "https://152.32.170.60/hu/hcr/raw/branch/master/py3.txt",
       "name": "PY最新"
     },
     {
-      "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
+      "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
       "name": "YSTV线路"
     }
 
