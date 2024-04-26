@@ -101,7 +101,7 @@
     },
     {
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
-      "name": "月光宝盒"
+      "name": "月光宝盒box"
     },
      {
       "url": "https://gitee.com/ztxiaoyao/tv/raw/master/ygbhqjt.json",
