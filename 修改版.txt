@@ -35,6 +35,10 @@
         "name": "安卓哥"
       },
       {
+        "url": "https://gitee.com/ztxiaoyao/tv/raw/master/zb.json",
+        "name": "安卓哥zb"
+      },
+      {
         "url": "https://hezi.tvboxhz.top/TVBOX盒子",
         "name": "TVBOX盒子"
       },
