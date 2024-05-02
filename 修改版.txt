@@ -112,7 +112,7 @@
       "name": "月光宝盒pro"
     },
     {
-      "url": "http://git.sxtv.top/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+      "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/max.json",
       "name": "月光宝盒max"
     },
      {
