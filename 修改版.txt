@@ -104,15 +104,15 @@
       "name": "开心线路"
     },
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+      "url": "http://git.sxtv.top/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
       "name": "月光宝盒box"
     },
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+      "url": "http://git.sxtv.top/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
       "name": "月光宝盒pro"
     },
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+      "url": "http://git.sxtv.top/https://raw.githubusercontent.com/guot55/yg/main/max.json",
       "name": "月光宝盒max"
     },
      {
