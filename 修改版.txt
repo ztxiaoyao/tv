@@ -107,6 +107,14 @@
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
       "name": "月光宝盒box"
     },
+    {
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+      "name": "月光宝盒pro"
+    },
+    {
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+      "name": "月光宝盒max"
+    },
      {
       "url": "https://gitee.com/ztxiaoyao/tv/raw/master/ygbhqjt.json",
       "name": "宝盒应用商店"
