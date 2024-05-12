@@ -67,10 +67,10 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "居然谈香雅情"
     },   
-    {
-     // "url": http://152.32.170.60/lcx/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json",
-    //  "name": "雷蒙线路"
-    },
+    //{
+     //"url": http://152.32.170.60/lcx/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json",
+    //"name": "雷蒙线路"
+   //},
     {
       "url": "https://100km.top/0",
       "name": "RAY线路"
@@ -206,10 +206,10 @@
       "url": "http://我不是.肥猫.live/接口禁止贩卖",
       "name": "肥猫线路"
     },
-   {
-    //  "name": "🏆蓅昀",
-     // "url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
-    },
+  //{
+    //"name": "🏆蓅昀",
+     //"url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
+   //},
  {
       "url": "https://qixing.myhkw.com/tianwei/svip.json",
       "name": "🚀天微影视VIP线🚀"
