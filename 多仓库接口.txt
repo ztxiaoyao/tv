@@ -4,6 +4,10 @@
             "sourceName": "💕自用仓库💕",
             "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
         },
+        {
+            "sourceName": "雷蒙影视多仓库",
+            "sourceUrl": "http://152.32.170.60/lcx/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json"
+        },
        {
             "sourceName": "柠檬多仓库",
             "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json"
@@ -67,7 +71,7 @@
         },
         {
             "sourceName": "③🥣沐大神呀多仓库",
-            "sourceUrl": "https://agit.ai/2011820123/tv/raw/commit/372531fb26fdd7f2af9451e97c79a63ab3d7835e/all.json"
+            "sourceUrl": "https://152.32.170.60/2011820123/tv/raw/commit/372531fb26fdd7f2af9451e97c79a63ab3d7835e/all.json"
         },
         {
             "sourceName": "④🍚饭太硬多仓仓库",
@@ -145,7 +149,7 @@
         },
         {
             "sourceName": "18🛰智界库影视库",
-            "sourceUrl": "https://www.agit.ai/1018610504/feng/raw/branch/master/many.txt"
+            "sourceUrl": "https://152.32.170.60/1018610504/feng/raw/branch/master/many.txt"
         },
         {
             "sourceName": "19🥥拾光源口多仓库",
@@ -153,7 +157,7 @@
         },
         {
             "sourceName": "20🍡日后魔改多仓库",
-            "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/1%e4%bb%93.json"
+            "sourceUrl": "https://152.32.170.60/gk0746/pxy/raw/branch/master/1%e4%bb%93.json"
         },
         {
             "sourceName": "21🎭陆哥多仓库",
