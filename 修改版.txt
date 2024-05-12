@@ -68,7 +68,7 @@
       "name": "居然谈香雅情"
     },   
       {  
-    "url": "http://152.32.170.60/n3rd/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json",  
+    "url": "https://lem85930.github.io/JN/lem.json",  
    "name": "雷蒙线路" 
    },
     {
