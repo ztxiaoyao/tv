@@ -26,6 +26,10 @@
       "url": "https://notabug.org/kite/feng/raw/master/feng.json",
       "name": "fang最新"
     },
+    {
+      "url": "https://gitee.com/okjack/okk/raw/master/ok.txt",
+      "name": "ok最新"
+    },
      {
         "url": "https://盒子迷.top/禁止贩卖",
         "name": "盒子迷"
