@@ -6,7 +6,7 @@
         },
         {
             "sourceName": "雷蒙影视多仓库",
-            "sourceUrl": "http://152.32.170.60/lcx/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json"
+            "sourceUrl": "http://152.32.170.60/n3rd/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json"
         },
        {
             "sourceName": "柠檬多仓库",
