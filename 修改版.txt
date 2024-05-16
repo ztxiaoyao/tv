@@ -165,10 +165,7 @@
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "荷城茶秀"
         },
-        {
-            "url": "https://152.32.170.60/guot54/ygbh/raw/branch/master/h/pro24.json",
-            "name": "夜猫子"
-        },
+
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高天流水"
