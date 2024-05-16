@@ -85,6 +85,14 @@
             "name": "老刘备线路"
         },
         {
+            "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风线路"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "D佬魔改线路"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
