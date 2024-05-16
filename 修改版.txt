@@ -21,6 +21,10 @@
             "name": "陆哥专用"
         },
         {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "pit自用线路"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
