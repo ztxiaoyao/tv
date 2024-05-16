@@ -7,31 +7,6 @@
         {
             "name": "祝嫙宝宝的家人们开心每一天",
             "url": "http://39.101.135.137:8080"
-        },
-        {
-            "url": "http://fan.888484.xyz/tv",
-            "name": "饭太硬"
-        },
-        {
-            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
-            "name": "陆哥专用"
-        },
-        {
-            "url": "http://肥猫.live",
-            "name": "肥猫"
-        },
-       
-        {
-            "name": "🐟春盈天下🐟",
-            "url": "https://盒子迷.top/春盈天下"
-        },
-        {
-            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
-            "name": "fang最新"
-        },
-        {
-            "url": "https://gitee.com/okjack/okk/raw/master/ok.txt",
-            "name": "ok最新"
         }
         }
     ]
