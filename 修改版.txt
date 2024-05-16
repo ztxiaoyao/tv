@@ -66,10 +66,7 @@
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "找到一个道长"
         },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情"
-        },
+       
         {
             "url": "https://lem85930.github.io/JN/lem.json",
             "name": "雷蒙线路"
@@ -91,10 +88,7 @@
             "url": "https://cn.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
         },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风线路"
-        },
+     
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
             "name": "D佬魔改线路"
