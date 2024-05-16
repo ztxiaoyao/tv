@@ -94,7 +94,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
-            "name": "宝盒jsm"
+            "name": "宝盒PIG"
         },
         {
             "url": "https://cn.kstore.space/download/2863/01.txt",
