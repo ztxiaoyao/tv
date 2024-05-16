@@ -1,9 +1,6 @@
 {
     "urls": [
-        {
-            "name": "自用 ",
-            "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json"
-        },
+       
         {
             "name": "祝嫙宝宝的家人们开心每一天",
             "url": "http://39.101.135.137:8080"
