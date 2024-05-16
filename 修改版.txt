@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "name": "自用搬运大佬的接口 ",
+            "name": "自用接口 ",
             "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json"
         },
         {
