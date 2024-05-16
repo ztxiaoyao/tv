@@ -124,8 +124,8 @@
       "name": "月光宝盒max"
     },
      {
-      "url": "https://gitee.com/ztxiaoyao/tv/raw/master/ygbhqjt.json",
-      "name": "宝盒应用商店"
+      "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pg/hrys.json",
+      "name": "宝盒华人影视"
     },
      {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
