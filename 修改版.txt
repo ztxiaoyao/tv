@@ -37,6 +37,10 @@
             "name": "盒子迷"
         },
         {
+            "url": "https://安卓哥.com/",
+            "name": "安卓哥"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
