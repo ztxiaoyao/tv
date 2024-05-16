@@ -33,6 +33,10 @@
             "name": "fang最新"
         },
         {
+            "url": "https://盒子迷.top/禁止贩卖",
+            "name": "盒子迷"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
