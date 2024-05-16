@@ -113,6 +113,14 @@
             "name": "宝盒影视"
         },
         {
+            "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
+            "name": "无界线路"
+        },
+        {
+            "url": "http://a.nxog.top/api.php?id=4&b=欧歌",
+            "name": "讴歌专线"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
