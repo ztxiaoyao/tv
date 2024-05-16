@@ -126,7 +126,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
-            "name": "宝盒华人影视"
+            "name": "宝盒影视"
         },
         {
             "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
