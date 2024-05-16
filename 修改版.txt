@@ -101,6 +101,18 @@
             "name": "开心线路"
         },
         {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "name": "月光宝盒pro"
+        },
+        {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "name": "月光宝盒max"
+        },
+        {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+            "name": "宝盒影视"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
