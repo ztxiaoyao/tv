@@ -29,6 +29,11 @@
             "name": "pit自用线路"
         },
         {
+           
+            "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
+            "name": "🚀春盈线路"
+        },
+        {
             "name": "🐟春盈天下备用🐟",
             "url": "https://盒子迷.top/春盈天下"
         },
