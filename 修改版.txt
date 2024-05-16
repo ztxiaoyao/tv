@@ -142,6 +142,22 @@
             "name": "分享者线路"
         },
         {
+            "name": "🏆蓅昀",
+            "url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
+        },
+        {
+            "url": "https://qixing.myhkw.com/tianwei/svip.json",
+            "name": "🚀天微影视VIP线🚀"
+        },
+        {
+            "url": "http://qixing.myhkw.com/QX/api.json",
+            "name": "🚀七星影视VIP线"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天流云"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
