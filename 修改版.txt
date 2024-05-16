@@ -92,8 +92,8 @@
       "name": "老刘备线路"
     },
     {
-      "url": "https://tvbox.cainisi.cf",
-      "name": "菜妮丝线"
+      "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pg/jsm.json",
+      "name": "宝盒jsm"
     },
     {
       "url": "https://cn.kstore.space/download/2863/01.txt",
