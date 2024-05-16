@@ -158,6 +158,18 @@
             "name": "🚀高天流云"
         },
         {
+            "url": "https://youdu.fan/tvbox/yd/svip.json",
+            "name": "毒盒影视VIP线🚀"
+        },
+        {
+            "url": "https://youdu.fan/tvbox/yd/yd.json",
+            "name": "毒盒影视"
+        },
+        {
+            "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
+            "name": "运输车vip"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
