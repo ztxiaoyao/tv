@@ -18,14 +18,14 @@
         },
         {
             "url": "http://肥猫.live",
-            "name": "专心养肥猫"
+            "name": "肥猫"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "pit自用线路"
         },
         {
-            "name": "🐟春盈天下备用🐟",
+            "name": "🐟春盈天下🐟",
             "url": "https://盒子迷.top/春盈天下"
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "居然谈香雅情"
+            "name": "香雅情"
         },
         {
             "url": "https://lem85930.github.io/JN/lem.json",
