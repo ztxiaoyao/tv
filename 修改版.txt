@@ -13,6 +13,10 @@
             "name": "饭太硬"
         },
         {
+            "url": "https://raw.kkgithub.com/guot55/yg/main/pg/jsm.json",
+            "name": "宝盒pig"
+        },
+        {
             "url": "http://肥猫.live",
             "name": "专心养肥猫"
         },
