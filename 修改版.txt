@@ -61,6 +61,10 @@
             "name": "找到一个道长"
         },
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "居然谈香雅清"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
