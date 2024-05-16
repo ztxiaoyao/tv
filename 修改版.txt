@@ -53,6 +53,14 @@
             "name": "柠檬影视"
         },
         {
+            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "PG路线"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "找到一个道长"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
