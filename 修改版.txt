@@ -109,10 +109,7 @@
             "url": "http://rihou.vip:55/天天开心",
             "name": "开心线路"
         },
-        {
-            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/box%e5%8e%9f.json",
-            "name": "月光宝盒box"
-        },
+
         {
             "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pro.json",
             "name": "月光宝盒pro"
