@@ -97,6 +97,10 @@
             "name": "月光宝盒box"
         },
         {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "开心线路"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
