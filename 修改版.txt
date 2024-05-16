@@ -12,7 +12,10 @@
             "url": "http://fan.888484.xyz/tv",
             "name": "饭太硬"
         },
-       
+       {
+            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
+            "name": "陆哥专用"
+        },
         {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
