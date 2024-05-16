@@ -12,6 +12,10 @@
             "url": "http://fan.888484.xyz/tv",
             "name": "饭太硬"
         },
+        {
+            "url": "http://肥猫.live",
+            "name": "专心养肥猫"
+        },
        {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
             "name": "陆哥专用"
