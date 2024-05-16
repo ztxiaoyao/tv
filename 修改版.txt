@@ -8,6 +8,10 @@
             "name": "祝嫙宝宝的家人们开心每一天",
             "url": "http://39.101.135.137:8080"
         },
+         {
+            "url": "http://fan.888484.xyz/tv",
+            "name": "饭太硬"
+        },
        
         {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
