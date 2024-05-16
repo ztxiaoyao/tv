@@ -93,7 +93,7 @@
             "name": "老刘备线路"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pg/jsm.json",
             "name": "宝盒PIG"
         },
         {
@@ -113,20 +113,20 @@
             "name": "开心线路"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/box原.json",
             "name": "月光宝盒box"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pro.json",
             "name": "月光宝盒pro"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/max.json",
             "name": "月光宝盒max"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
-            "name": "宝盒华人影视"
+            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pg/hrys.json",
+            "name": "宝盒华影视"
         },
         {
             "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
