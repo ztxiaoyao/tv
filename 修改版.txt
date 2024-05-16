@@ -41,6 +41,10 @@
             "name": "安卓哥"
         },
         {
+            "url": "https://hezi.tvboxhz.top/TVBOX盒子",
+            "name": "TVBOX盒子"
+        },  
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
