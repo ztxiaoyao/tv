@@ -93,7 +93,7 @@
             "name": "老刘备线路"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name": "宝盒PIG"
         },
         {
@@ -113,19 +113,19 @@
             "name": "开心线路"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/box原.json",
             "name": "月光宝盒box"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
             "name": "月光宝盒pro"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "月光宝盒max"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
             "name": "宝盒华影视"
         },
         {
