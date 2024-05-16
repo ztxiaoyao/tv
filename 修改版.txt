@@ -28,6 +28,10 @@
             "name": "🐟春盈天下备用🐟",
             "url": "https://盒子迷.top/春盈天下"
         },
+         {
+            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
+            "name": "fang最新"
+        },
         {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
