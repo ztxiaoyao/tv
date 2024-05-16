@@ -65,6 +65,14 @@
             "name": "居然谈香雅清"
         },
         {
+            "url": "https://lem85930.github.io/JN/lem.json",
+            "name": "雷蒙线路"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "RAY线路"
+        },
+        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         }
