@@ -111,18 +111,6 @@
         },
 
         {
-            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pro.json",
-            "name": "月光宝盒pro"
-        },
-        {
-            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/max.json",
-            "name": "月光宝盒max"
-        },
-        {
-            "url": "http://152.32.170.60/1018610504/yg/raw/branch/main/pg/hrys.json",
-            "name": "宝盒华影视"
-        },
-        {
             "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖 ",
             "name": "无界线路"
         },
