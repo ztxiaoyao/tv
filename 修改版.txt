@@ -122,7 +122,7 @@
             "name": "无界线路"
         },
         {
-            "url": "http://a.nxog.top/api.php?id=4&b=欧歌",
+            "url": "http://1.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8C",
             "name": "讴歌专线"
         },
         {
