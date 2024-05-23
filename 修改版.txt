@@ -130,18 +130,7 @@
             "url": "https://raw.kkgithub.com/guot55/yg/main/pg/jsm.json",
             "name": "宝盒pig"
         },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "星云日记"
-        },
-        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "运输车线路"
-        },
-        {
-            "url": "http://8.210.232.168/xc.json",
-            "name": "星辰线路"
-        },
+             
         {
             "url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "分享者线路"
@@ -161,19 +150,8 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
-        },
-        {
-            "url": "https://youdu.fan/tvbox/yd/svip.json",
-            "name": "毒盒影视VIP线🚀"
-        },
-        {
-            "url": "https://youdu.fan/tvbox/yd/yd.json",
-            "name": "毒盒影视"
-        },
-        {
-            "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
-            "name": "运输车vip"
-        },
+        },        
+       
         {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
