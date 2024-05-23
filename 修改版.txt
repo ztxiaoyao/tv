@@ -140,7 +140,7 @@
             "url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
         },
         {
-            "url": "https://qixing.myhkw.com/tianwei/svip.json",
+            "url": "https://gitee.com/tvkj/fl/raw/main/svip.json",
             "name": "🚀天微影视VIP线🚀"
         },
         {
