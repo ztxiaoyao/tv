@@ -144,7 +144,7 @@
             "name": "🚀天微影视VIP线🚀"
         },
         {
-            "url": "http://qixing.myhkw.com/QX/api.json",
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
             "name": "🚀七星影视VIP线"
         },
         {
