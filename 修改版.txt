@@ -27,7 +27,7 @@
         },
           {
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.json",
-            "name": "自用春颖线路"
+            "name": "最好的直播线路"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
