@@ -9,6 +9,10 @@
             "url": "http://39.101.135.137:8080"
         },
          {
+            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/box/tongyong.json",
+            "name": "鸟叔线路"
+        },
+         {
             "url": "http://fan.888484.xyz/tv",
             "name": "饭太硬"
         },
