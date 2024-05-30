@@ -174,7 +174,11 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
-        },        
+        },   
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🐹南风线路"
+        },    
        
         {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
