@@ -6,7 +6,7 @@
         },
         {
             "sourceName": "雷蒙影视多仓库",
-            "sourceUrl": "http://152.32.170.60/n3rd/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json"
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cysk003/n3rddd-N3RD-TVBOX/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E4%B8%93%E7%BA%BF.json"
         },
         {
             "sourceName": "if仓库",
