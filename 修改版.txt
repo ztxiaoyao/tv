@@ -2,7 +2,7 @@
     "urls": [
         {
             "name": "自用搬运大佬的接口 ",
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
         },
          {
             "name": "祝嫙宝宝的家人们开心每一天",
