@@ -87,7 +87,7 @@
             "name": "摸鱼儿"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
             "name": "柠檬影视"
         },
         {
@@ -99,7 +99,7 @@
             "name": "找到一个道长"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "居然谈香雅清"
         },
         {
@@ -127,7 +127,7 @@
             "name": "D佬魔改线路"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
             "name": "月光宝盒box"
         },
         {
@@ -143,7 +143,7 @@
             "name": "月光宝盒max"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "宝盒影视"
         },
         {
@@ -155,7 +155,7 @@
             "name": "刺猬2线路"
         },
         {
-            "url": "https://raw.kkgithub.com/guot55/yg/main/pg/jsm.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name": "宝盒pig"
         },
              
@@ -176,11 +176,11 @@
             "name": "🚀七星影视VIP线"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
         },   
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹南风线路"
         },    
        {
