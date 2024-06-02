@@ -143,7 +143,7 @@
             "name": "月光宝盒max"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/hrys.json",
             "name": "宝盒影视"
         },
         {
