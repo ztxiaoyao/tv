@@ -13,7 +13,7 @@
             "name": "鸟叔线路"
         },
          {
-            "url": "http://www.饭太硬.com/tv/",
+            "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
         },
         {
