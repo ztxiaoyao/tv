@@ -1,0 +1,16 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "☁️云星在线仓库",
+      "sourceUrl": "http://itvbox.cc/可视仓库/在线仓"
+    },
+    {
+      "sourceName": "☁️可视本地仓库",
+      "sourceUrl": "http://itvbox.cc/可视仓库/本地仓"
+    },
+    {
+      "sourceName": "☁️神州在线仓库",
+      "sourceUrl": "http://itvbox.cc/可视仓库/神州在线仓"
+    }
+  ]
+}
