@@ -12,6 +12,10 @@
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/box/tongyong.json",
             "name": "鸟叔线路"
         },
+        {
+            "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/9d19a65e10b018b4624ab7ff3ee1326c5c69ef1e/hjys.free.json",
+            "name": "黄金影视破解接口"
+        },
          {
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
