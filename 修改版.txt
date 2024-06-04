@@ -57,6 +57,11 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "pit自用线路"
         },
+           {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "魔改新线路线路"
+        },
+     
         {
            
             "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
@@ -124,7 +129,7 @@
         },
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "D佬魔改线路"
+            "name": "D佬线路"
         },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
@@ -188,7 +193,7 @@
             "name": "🐹业余线路"
         },
         {
-            "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/sub/ati.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "YSTV线路"
         }
     ]
