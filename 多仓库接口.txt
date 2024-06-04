@@ -161,8 +161,8 @@
             "sourceUrl": "https://152.32.170.60/1018610504/feng/raw/branch/master/many.txt"
         },
         {
-            "sourceName": "19🥥拾光源口多仓库",
-            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
+            "sourceName": "毒盒多仓库",
+            "sourceUrl": "https://tv.youdu.fan:666/"
         },
         {
             "sourceName": "20🍡日后魔改多仓库",
