@@ -5,6 +5,11 @@
             "sourceUrl": "https://gitee.com/ztxiaoyao/tv/raw/master/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
         },
         {
+            "sourceName": "11🆔 拾光影视多仓库",
+            "sourceUrl": "https://gitlab.com/xmbjm/dc/-/raw/main/sgdc.json"
+        },
+        },
+        {
             "sourceName": "雷蒙影视多仓库",
             "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E4%B8%93%E7%BA%BF.json"
         },
@@ -128,7 +133,7 @@
         },
         {
             "sourceName": "11🆔 拾光影视多仓库",
-            "sourceUrl": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
         },
         {
             "sourceName": "12🎇恒星影视多仓库",
