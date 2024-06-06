@@ -8,7 +8,6 @@
             "sourceName": "拾光影视多仓库",
             "sourceUrl": "https://gitlab.com/xmbjm/dc/-/raw/main/sgdc.json"
         },
-  
         {
             "sourceName": "雷蒙影视多仓库",
             "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86%E4%B8%93%E7%BA%BF.json"
@@ -17,7 +16,7 @@
             "sourceName": "if仓库",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/if.json"
         },
-       {
+        {
             "sourceName": "柠檬多仓库",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json"
         },
@@ -25,7 +24,6 @@
             "sourceName": "摸摸🐟蜂蜜",
             "sourceUrl": "http://fmys.top/online.json"
         },
-       
         {
             "sourceName": "摸摸🐟魔改",
             "sourceUrl": "http://rihou.vip:666"
@@ -46,7 +44,7 @@
             "sourceName": "摸摸🐟欧歌",
             "sourceUrl": "http://tv.nxog.top/"
         },
-                {
+        {
             "sourceName": "永远的仓库",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/x.txt"
         },
@@ -118,11 +116,10 @@
             "sourceName": "🌙月光宝盒4.4多仓",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"
         },
-         {
+        {
             "sourceName": "🌙月光宝盒应用合集",
             "sourceUrl": " https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/market.json"
         },
-       
         {
             "sourceName": "⑨🕵 宋歌影视多仓库",
             "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"
@@ -147,7 +144,6 @@
             "sourceName": "147⃣七星影视多仓库",
             "sourceUrl": "http://tvkj.top/DC.txt"
         },
-       
         {
             "sourceName": "16💠水大侠影视仓库",
             "sourceUrl": "https://gitee.com/GK_6_0/json/raw/master/json.txt"
@@ -180,7 +176,5 @@
             "sourceName": "23🍷蚂蚁影视三仓库",
             "sourceUrl": "https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"
         }
-        
     ]
 }
-复制
