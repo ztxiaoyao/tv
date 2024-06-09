@@ -174,8 +174,8 @@
             "name": "分享者线路"
         },
         {
-            "name": "🏆蓅昀",
-            "url": "http://152.32.170.60/1018610504/liuyun/raw/branch/master/%e7%90%89%e8%8a%b8.json"
+            "name": "🏆神仙接口",
+            "url": "http://dp.sxtv.top:88/img"
         },
         {
             "url": "https://gitee.com/tvkj/fl/raw/main/svip.json",
