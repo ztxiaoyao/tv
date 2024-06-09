@@ -2,7 +2,7 @@
     "urls": [
         {
             "name": "自用搬运大佬的接口 ",
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
         },
          {
             "name": "祝嫙宝宝的家人们开心每一天",
