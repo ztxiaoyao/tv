@@ -53,6 +53,10 @@
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "放牛娃"
         },
+        {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "name": "月光宝盒新box"
+        },
        {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
             "name": "陆哥专用"
