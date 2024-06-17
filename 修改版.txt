@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "name": "自用搬运大佬的接口 ",
+            "name": "收集整理自各大佬群，仅供参考，不好用的源告知，删除",
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
         },
          {
@@ -54,8 +54,8 @@
             "name": "放牛娃"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/hr.json",
-            "name": "月光宝盒新box"
+            "url": "http://a4.gaochao.icu//app/api.json",
+            "name": "幼儿园小学初中高中学习"
         },
        {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
