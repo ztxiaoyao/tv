@@ -57,6 +57,9 @@
             "url": "http://a4.gaochao.icu//app/api.json",
             "name": "幼儿园小学初中高中学习"
         },
+        {"url":"https://files.catbox.moe/eu3uj5","name":"🐈新夜猫子"},
+
+{"url":"http://www.lyyytv.cn/yt/yt.json","name":"💰影探4K"},
        {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
             "name": "陆哥专用"
@@ -213,6 +216,17 @@
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "🐹业余线路"
         },
+        {"url":"https://chuanshuo.77blog.cn/tv.json","name":"🛶传说"},
+
+{"url":"https://pypp.li0580.com/tvbox/djvip2512.json","name":"🚏路人甲短剧"},
+
+{"url":"https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json","name":"🈹短剧大全"},
+
+{"url":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json","name":"🕎yuwei JS"},
+
+{"url":"http://like.肥猫.com/你好","name":"🐼肥猫妹妹"},
+
+{"url":"http://饭.eu.org/tv","name":"🕎饭太硬"},
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "YSTV线路"
