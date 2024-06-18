@@ -156,7 +156,7 @@
             "name": "云盘合集"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/box%E5%8E%9F.json",
+            "url": "http://ygbh.live/box.php ",
             "name": "月光宝盒box"
         },
         {
@@ -164,7 +164,7 @@
             "name": "开心线路"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "url": "http://ygbh.live/plus.php",
             "name": "月光宝盒pro"
         },
         {
