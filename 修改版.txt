@@ -164,7 +164,11 @@
             "name": "开心线路"
         },
         {
-            "url": "http://ygbh.live/plus.php",
+            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json",
+            "name": "月光宝盒pgjsm"
+        },
+         {
+            "url": "https://gitlab.com/guot55/yg/-/raw/main/pro.json",
             "name": "月光宝盒pro"
         },
         {
