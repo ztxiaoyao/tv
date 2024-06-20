@@ -77,6 +77,10 @@
             "name": "pit潇洒线路"
         },
            {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/master/doki-Hb.json?ref_type=heads",
+            "name": "4k线路加载慢"
+        },
+        {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "魔改新线路线路"
         },
