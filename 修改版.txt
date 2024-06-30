@@ -85,7 +85,7 @@
             "name": "pit潇洒线路"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Hb.json?ref_type=heads",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ni.json",
             "name": "码头4k线路加载慢"
         },
         {
