@@ -60,14 +60,7 @@
             "url": "http://a4.gaochao.icu//app/api.json",
             "name": "幼儿园小学初中高中学习"
         },
-        {
-            "url": "https://files.catbox.moe/eu3uj5",
-            "name": "🐈新夜猫子"
-        },
-        {
-            "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "💰影探4K"
-        },
+       
         {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
             "name": "陆哥专用"
@@ -76,10 +69,7 @@
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.json",
             "name": "最好的直播线路"
         },
-        {
-            "url": "http://fan.888484.xyz/tv",
-            "name": "饭太硬备用"
-        },
+       
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "pit潇洒线路"
