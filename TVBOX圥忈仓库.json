@@ -8,6 +8,10 @@
             "name": "圥忈ceshi",
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ceshi.json?ref_type=heads"
         },
+         {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-18+.json?ref_type=heads",
+            "name": "圥忈nnnn"
+        },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-19+.json?ref_type=heads",
             "name": "圥忈nnnn"
