@@ -49,10 +49,6 @@
             "name": "专心养肥猫"
         },
         {
-            "url": "https://juziyou.vip/tv",
-            "name": "橘子柚影视"
-        },
-        {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "放牛娃"
         },
