@@ -218,14 +218,7 @@
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
             "name": "🈹短剧大全"
         },
-        {
-            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
-            "name": "🕎yuwei JS"
-        },
-        {
-            "url": "http://like.肥猫.com/你好",
-            "name": "🐼肥猫妹妹"
-        },
+        
         {
             "url": "http://饭.eu.org/tv",
             "name": "🕎饭太硬"
