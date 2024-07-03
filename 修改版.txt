@@ -52,10 +52,6 @@
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "放牛娃"
         },
-        {
-            "url": "http://a4.gaochao.icu//app/api.json",
-            "name": "幼儿园小学初中高中学习"
-        },
        
         {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
