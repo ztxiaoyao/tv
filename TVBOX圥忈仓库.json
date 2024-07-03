@@ -1,0 +1,48 @@
+{
+    "urls": [
+        {
+            "name": "圥忈B",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads"
+        },
+        {
+            "name": "祝嫙宝宝的家人们开心每一天",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ceshi.json?ref_type=heads"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-19+.json?ref_type=heads",
+            "name": "nnnn"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json?ref_type=heads ",
+            "name": "dx"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Gn.json?ref_type=heads",
+            "name": "GN"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ig.json?ref_type=heads",
+            "name": "IG"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-R.json?ref_type=heads",
+            "name": "GN"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RD.json?ref_type=heads",
+            "name": "GN"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Rj.json?ref_type=heads",
+            "name": "GN"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RK.json?ref_type=heads",
+            "name": "GN"
+        },
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/测试.json?ref_type=heads",
+            "name": "测试"
+        }
+    ]
+   }
