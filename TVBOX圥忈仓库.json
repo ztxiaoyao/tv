@@ -1,5 +1,9 @@
 {
     "urls": [
+         {
+            "name": "圥忈B",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json?ref_type=heads"
+        },
         {
             "name": "圥忈B",
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads"
@@ -33,7 +37,7 @@
             "name": "圥忈R"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RD.json?ref_type=heads",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RN.json?ref_type=heads",
             "name": "圥忈RD"
         },
         {
