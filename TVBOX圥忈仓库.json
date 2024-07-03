@@ -1,7 +1,7 @@
 {
     "urls": [
          {
-            "name": "圥忈B",
+            "name": "圥忈YUN",
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json?ref_type=heads"
         },
         {
@@ -14,11 +14,11 @@
         },
          {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-18+.json?ref_type=heads",
-            "name": "圥忈nnnn"
+            "name": "圥忈16+2"
         },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-19+.json?ref_type=heads",
-            "name": "圥忈nnnn"
+            "name": "圥忈19"
         },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Dx.json?ref_type=heads ",
