@@ -12,7 +12,7 @@
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
         },
-                {
+        {
             "url": "http://我不是.摸鱼儿.top",
             "name": "摸鱼儿"
         },
@@ -56,7 +56,6 @@
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "放牛娃"
         },
-       
         {
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
             "name": "陆哥专用"
@@ -65,7 +64,6 @@
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.json",
             "name": "最好的直播线路"
         },
-       
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "pit潇洒线路"
@@ -102,7 +100,6 @@
             "url": "https://hezi.tvboxhz.top/TVBOX盒子",
             "name": "TVBOX盒子"
         },
-      
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
             "name": "柠檬影视"
@@ -219,7 +216,6 @@
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
             "name": "🈹短剧大全"
         },
-        
         {
             "url": "http://饭.eu.org/tv",
             "name": "🕎饭太硬"
