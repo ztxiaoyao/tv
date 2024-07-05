@@ -1,7 +1,15 @@
 {
     "urls": [
          {
-            "name": "圥忈YUN",
+            "name": "圥忈K",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json?ref_type=heads"
+        },
+         {
+            "name": "圥忈MO",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/MO.json?ref_type=heads"
+        },
+         {
+            "name": "圥忈YU",
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json?ref_type=heads"
         },
         {
@@ -37,17 +45,10 @@
             "name": "圥忈R"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RN.json?ref_type=heads",
-            "name": "圥忈RD"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-UP.json?ref_type=heads",
+            "name": "圥忈UP"
         },
-        {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Rj.json?ref_type=heads",
-            "name": "圥忈RJ"
-        },
-        {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-RK.json?ref_type=heads",
-            "name": "圥忈RK"
-        },
+       
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/测试.json?ref_type=heads",
             "name": "测试"
