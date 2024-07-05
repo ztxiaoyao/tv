@@ -12,6 +12,10 @@
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
         },
+                {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼儿"
+        },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
@@ -26,7 +30,7 @@
         },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
-            "name": "码头专线"
+            "name": "圥忈专线"
         },
         {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
@@ -67,8 +71,8 @@
             "name": "pit潇洒线路"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ni.json",
-            "name": "码头4k线路加载慢"
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/ceshi.json",
+            "name": "圥忈4k线路加载慢"
         },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -98,10 +102,7 @@
             "url": "https://hezi.tvboxhz.top/TVBOX盒子",
             "name": "TVBOX盒子"
         },
-        {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "摸鱼儿"
-        },
+      
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/cat.json",
             "name": "柠檬影视"
