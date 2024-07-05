@@ -45,6 +45,7 @@
             "name": "祥子影视4K弹幕"
         },
         {"url":"https://gitee.com/zhouhangan/tv/raw/master/7033.json","name":"7033的4K"},
+        {"url":"https://tv.980222.xyz/M1/勇往.json","name":"勇往线路"},
         {
             "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/9d19a65e10b018b4624ab7ff3ee1326c5c69ef1e/hjys.free.json",
             "name": "黄金影视接口"
