@@ -1,0 +1,29 @@
+{"urls":[
+{"name": "时光畅谈🌐祥子网络整理","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"},
+{"name": "荷城茶秀🌐官 方 网 站","url":"http://rihou.vip:88/荷城茶秀"},
+{"name": "拾光4K🌐www.xzweb.top","url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"},
+{"name": "饭太硬 🌐搜索影视仓","url":"http://www.饭太硬.top/tv/"},
+{"name": "菜泥丝 🌐下载[影视仓]","url": "https://szyyds.cn/tv/x.json"},
+{"name": "香雅倩🌐感谢大佬支持","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
+{"name": "肥猫🌐祥子网络整理","url":"http://肥猫.live"},
+{"name": "讴歌🌐祥子网络整理","url":"http://tv.nxog.top/m/"},
+{"name": "小白🌐祥子网络整理","url":"http://bp.tvbox.cam/"},
+//{"name": "ok猫🌐祥子网络整理","url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"},
+{"name": "车妹🌐祥子网络整理","url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"},
+{"name": "星辰🌐祥子网络整理","url":"http://8.210.232.168/xc.json"},
+{"name": "XC备用🌐祥子网络整理","url":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json"},
+{"name": "小米🌐祥子网络整理","url": "http://xhww.fun/小米/DEMO.json"},
+{"name": "小马🌐祥子网络整理","url": "https://szyyds.cn/tv/x.json"},
+{"name": "Ray线路🌐祥子网络整理","url": "https://xhdwc.tk/0"}   
+]
+}
+
+【自营接口】单仓:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
+【自营接口】多仓:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json
+【元老库】收集市面运行时间最长接口合集:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/daku.txt
+【讴歌多仓】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/讴歌多仓.txt
+【七星多仓】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/七星多仓.txt
+【心动仓库】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/心动仓库.txt
+【宝盒多仓】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/宝盒多仓.txt
+【云星多仓】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/云星多仓.txt
+【多多多仓】:https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt
