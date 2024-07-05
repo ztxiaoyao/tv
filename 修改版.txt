@@ -29,6 +29,10 @@
             "name": "鸟叔线路"
         },
         {
+            "url": "https://gitee.com/dongchenliu/liu/raw/master/hd.json",
+            "name": "东辰影视"
+        },
+        {
             "url": "https://8815.kstore.space/shentu2.json",
             "name": "软件分享阁"
         },
