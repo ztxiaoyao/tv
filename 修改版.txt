@@ -13,7 +13,7 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://gitlab.com/guot55/yg/-/raw/main/box%E5%8E%9F.json ",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
         },
         {
@@ -143,23 +143,23 @@
             "name": "月光宝盒迷"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/yp/api.json",
-            "name": "云盘合集"
+            "url": "https://git.acwing.com/bh666/bh/-/raw/main/bhyy/box原.json",
+            "name": "宝盒box原"
         },
         {
             "url": "http://rihou.vip:55/天天开心",
             "name": "开心线路"
         },
         {
-            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json",
             "name": "月光宝盒pgjsm"
         },
         {
-            "url": "https://gitlab.com/guot55/bh/-/raw/main/pro.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
             "name": "月光宝盒pro"
         },
         {
-            "url": "https://gitlab.com/guot55/yg/-/raw/main/max.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "月光宝盒max"
         },
         {
