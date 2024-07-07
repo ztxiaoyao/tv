@@ -29,6 +29,10 @@
             "name": "月光宝盒box"
         },
         {
+            "url": "https://gitee.com/zizuzile/yule/raw/master/YL/%E6%B0%B8%E6%81%92.json",
+            "name": "永恒线路"
+        },
+        {
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/box/tongyong.json",
             "name": "鸟叔线路"
         },
