@@ -17,8 +17,8 @@
             "name": "摸鱼儿"
         },
         {
-            "name": "晓宇儿童专线",
-            "url": "https://gitee.com/xiaoyu91353/xiaoyu-duocang/raw/master/%E6%99%93%E5%AE%87%E5%84%BF%E7%AB%A5%E4%B8%93%E7%BA%BF.txt"
+            "name": "晓宇专线",
+            "url": "https://gitee.com/xiaoyu91353/yingshicang/raw/master/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%8D%95%E4%BB%93.json"
         },
         {
             "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
