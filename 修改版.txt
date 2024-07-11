@@ -41,7 +41,7 @@
             "name": "东辰影视"
         },
         {
-            "url": "https://8815.kstore.space/shentu2.json",
+            "url": "https://8815.kstore.space/shentu6.json",
             "name": "软件分享阁"
         },
         {
