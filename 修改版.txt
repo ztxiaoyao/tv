@@ -89,11 +89,11 @@
             "name": "汤影视线路"
         },
         {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "专心养肥猫"
         },
         {
-            "url": "http://tvbox.王二小放牛娃.xyz",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
             "name": "放牛娃"
         },
         {
