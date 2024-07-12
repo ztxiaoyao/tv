@@ -93,7 +93,7 @@
             "name": "专心养肥猫"
         },
         {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
+            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%94%BE%E7%89%9B%E5%A8%83.json",
             "name": "放牛娃"
         },
         {
