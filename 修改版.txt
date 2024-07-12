@@ -97,7 +97,11 @@
             "name": "放牛娃"
         },
         {
-            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/miao1.json",
+            "url": "https://gitee.com/tanghengice/luge/raw/master/api",
+            "name": "陆哥专用"
+        },
+        {
+            "url": "https://gitee.com/tanghengice/luge/raw/master/yunying",
             "name": "陆哥专用"
         },
         {
