@@ -177,7 +177,7 @@
             "name": "月光宝盒迷"
         },
         {
-            "url": "https://git.acwing.com/bh666/bh/-/raw/main/bhyy/box原.json",
+            "url": "https://cdn05042023.gitlink.org.cn/ss1234ss/pro/raw/branch/main/box%E5%8E%9F.json",
             "name": "宝盒box原"
         },
         {
