@@ -68,6 +68,10 @@
             "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/9d19a65e10b018b4624ab7ff3ee1326c5c69ef1e/hjys.free.json",
             "name": "黄金影视接口"
         },
+         {
+            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%94%BE%E7%89%9B%E5%A8%83.json",
+            "name": "放牛娃复刻"
+        },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
             "name": "圥忈专线"
@@ -93,8 +97,8 @@
             "name": "专心养肥猫"
         },
         {
-            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%94%BE%E7%89%9B%E5%A8%83.json",
-            "name": "放牛娃"
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "放牛娃在线"
         },
         {
             "url": "https://gitee.com/tanghengice/luge/raw/master/api",
