@@ -29,6 +29,10 @@
             "name": "月光宝盒box"
         },
         {
+            "name": "豆瓣小白龙",
+            "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/a1.json"
+        },
+        {
             "url": "https://gitee.com/zizuzile/yule/raw/master/YL/%E6%B0%B8%E6%81%92.json",
             "name": "永恒线路"
         },
