@@ -33,10 +33,6 @@
             "sourceUrl": "http://rihou.vip:666"
         },
         {
-            "sourceName": "摸摸🐟星辰",
-            "sourceUrl": "http://8.210.232.168/dc1.json"
-        },
-        {
             "sourceName": "摸摸🐟朱师傅",
             "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
         },
@@ -77,20 +73,12 @@
             "sourceUrl": "http://530.my3v.work/99668.json"
         },
         {
-            "sourceName": "②🎎蚂蚁影视多仓库",
-            "sourceUrl": "https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"
-        },
-        {
             "sourceName": "④🍚饭太硬多仓仓库",
             "sourceUrl": "https://d.kstore.space/download/2904/236.txt"
         },
         {
             "sourceName": "⑤🏮欧歌影视多仓库",
             "sourceUrl": " http://tv.nxog.top/nxog/ou1.php?b=欧歌"
-        },
-        {
-            "sourceName": "⑥🥐阿松万事屋多仓",
-            "sourceUrl": "https://xs.magiclee.cn/jk/阿松万事屋多仓.txt "
         },
         {
             "sourceName": "⑧🌴青木影视多仓库",
@@ -145,24 +133,13 @@
             "sourceUrl": "https://gitee.com/GK_6_0/json/raw/master/json.txt"
         },
         {
-            "sourceName": "17📺追剧吧影视多仓",
-            "sourceUrl": "https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"
-        },
-        {
             "sourceName": "毒盒多仓库",
             "sourceUrl": "https://tv.youdu.fan:666/"
         },
         {
             "sourceName": "21🎭陆哥多仓库",
             "sourceUrl": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt "
-        },
-        {
-            "sourceName": "22🍷蚂蚁影视二仓库",
-            "sourceUrl": "https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt"
-        },
-        {
-            "sourceName": "23🍷蚂蚁影视三仓库",
-            "sourceUrl": "https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"
         }
+
     ]
 }
