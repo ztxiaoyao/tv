@@ -233,11 +233,11 @@
             "url": "http://dp.sxtv.top:88/img"
         },
         {
-            "url": "https://gitee.com/tvkj/fl/raw/main/svip.json",
+            "url": "https://gitee.com/tvkj/feilong/raw/main/svip.json",
             "name": "🚀天微影视VIP线🚀"
         },
         {
-            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "url": "https://gitee.com/tvkj/tianwei/raw/main/svip.json",
             "name": "🚀七星影视VIP线"
         },
         {
