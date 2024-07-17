@@ -165,7 +165,7 @@
             "name": "居然谈香雅清"
         },
         {
-            "url": "https://lem85930.github.io/JN/lem.json",
+            "url": "https://lem85930.github.io/JN/lemfav.json",
             "name": "雷蒙线路"
         },
         {
