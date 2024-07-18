@@ -20,6 +20,11 @@
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/dongchen/dongchen.json",
             "name": "东辰影视716本地在线化"
         },
+                {
+            "url": "https://6969.kstore.space/ck/jsm.json",
+            "name": "PG718本地在线化"
+        },
+        https://6969.kstore.space/ck/jsm.json
         {
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/fty/fty.json",
             "name": "饭太硬716本地在线化"
