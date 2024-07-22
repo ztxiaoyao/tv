@@ -69,8 +69,8 @@
             "name": "祥子影视4K弹幕"
         },
         {
-            "url": "https://gitee.com/zhouhangan/tv/raw/master/7033.json",
-            "name": "7033的4K"
+            "url": "https://gitee.com/chenrun1984/4k/raw/master/%E4%BA%91%E4%BB%93%E6%96%B0.json",
+            "name": "4KCKU"
         },
         {
             "url": "https://tv.980222.xyz/M1/勇往.json",
