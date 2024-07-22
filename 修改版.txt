@@ -202,7 +202,7 @@
             "name": "开心线路"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json",
             "name": "月光宝盒pgjsm"
         },
         {
