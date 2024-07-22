@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "name": "收集整理自各大佬群，仅供参考，不好用的源告知，删除",
+            "name": "7.22收集各大佬群的源",
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
         },
         {
@@ -261,18 +261,12 @@
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "🛶传说"
         },
-        {
-            "url": "https://pypp.li0580.com/tvbox/djvip2512.json",
-            "name": "🚏路人甲短剧"
-        },
+
         {
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
             "name": "🈹短剧大全"
         },
-        {
-            "url": "http://饭.eu.org/tv",
-            "name": "🕎饭太硬"
-        },
+
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "YSTV线路"
