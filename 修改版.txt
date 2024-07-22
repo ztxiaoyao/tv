@@ -32,10 +32,7 @@
             "name": "晓宇专线",
             "url": "https://gitee.com/xiaoyu91353/yingshicang/raw/master/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%8D%95%E4%BB%93.json"
         },
-        {
-            "url": "http://120.24.204.74:1888/?explorer/share/file&hash=1277MMs1UITPwRkFSiUwxvFZU1UGQqfXHMnKQHeMcexYxjtYy9tydrVYUbsNkOItAw&name=/春盈天下新yy.css",
-            "name": "🚀春盈线路"
-        },
+       
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
