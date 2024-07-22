@@ -13,6 +13,10 @@
             "name": "饭太硬"
         },
         {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼儿"
+        },
+        {
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/moyu/moyu.json",
             "name": "摸鱼儿716本地在线化"
         },
