@@ -54,7 +54,7 @@
         },
         {
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/box/tongyong.json",
-            "name": "鸟叔线路"
+            "name": "廖叔线路"
         },
         {
             "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json",
