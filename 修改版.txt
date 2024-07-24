@@ -58,10 +58,6 @@
             "name": "展昭线路"
         },
         {
-            "url": "https://8815.kstore.space/shentu6.json",
-            "name": "软件分享阁"
-        },
-        {
             "url": "http://www.xzweb.top/祥子影视/main/xzys2024.json",
             "name": "祥子影视4K"
         },
@@ -140,10 +136,6 @@
         {
             "name": "🐟春盈天下备用🐟",
             "url": "https://盒子迷.top/春盈天下"
-        },
-        {
-            "url": "https://notabug.org/kite/feng/raw/master/feng.json",
-            "name": "fang最新"
         },
         {
             "url": "https://盒子迷.top/禁止贩卖",
