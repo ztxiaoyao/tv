@@ -85,10 +85,7 @@
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
             "name": "圥忈专线"
         },
-        {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
-            "name": "圥忈蓝光专线"
-        },
+      
         {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
             "name": "短剧接口1"
