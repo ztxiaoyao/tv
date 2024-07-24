@@ -40,7 +40,7 @@
             "name": "719",
             "url": "https://json.qlkjy.cn/qb.json"
         },
-       {
+        {
             "name": "复刻",
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json"
         },
@@ -92,7 +92,7 @@
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
             "name": "圥忈专线"
         },
-                {
+        {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
             "name": "圥忈蓝光专线"
         },
@@ -264,12 +264,10 @@
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "🛶传说"
         },
-
         {
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
             "name": "🈹短剧大全"
         },
-
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "YSTV线路"
