@@ -36,7 +36,14 @@
             "name": "晓宇专线",
             "url": "https://gitee.com/xiaoyu91353/yingshicang/raw/master/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%8D%95%E4%BB%93.json"
         },
-       
+        {
+            "name": "奇乐科技719",
+            "url": "https://json.qlkjy.cn/qb.json"
+        },
+       {
+            "name": "奇乐科技复刻",
+            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json"
+        },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
