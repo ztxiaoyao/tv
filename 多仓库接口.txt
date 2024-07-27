@@ -48,30 +48,7 @@
             "sourceName": "永远的仓库",
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/x.txt"
         },
-        {
-            "sourceName": "💚多多优选仓🍭软件接口🍭",
-            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"
-        },
-        {
-            "sourceName": "💛多多公众仓🍭完全免费🍭",
-            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"
-        },
-        {
-            "sourceName": "❤️多多聚合仓🍭严禁贩卖🍭",
-            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"
-        },
-        {
-            "sourceName": "💜多多预备仓🍭不做韭菜🍭",
-            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"
-        },
-        {
-            "sourceName": "多多家庭仓",
-            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"
-        },
-        {
-            "sourceName": "①🥝金鹰影视多仓库",
-            "sourceUrl": "http://530.my3v.work/99668.json"
-        },
+
         {
             "sourceName": "④🍚饭太硬多仓仓库",
             "sourceUrl": "https://d.kstore.space/download/2904/236.txt"
@@ -112,10 +89,7 @@
             "sourceName": "⑩🛀🏻 小白影视多仓库",
             "sourceUrl": "http://39.101.135.137:8686/"
         },
-        {
-            "sourceName": "11🆔 拾光影视多仓库",
-            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
-        },
+        
         {
             "sourceName": "12🎇恒星影视多仓库",
             "sourceUrl": "http://530.my3v.work/hxck.json"
