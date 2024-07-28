@@ -21,8 +21,8 @@
             "name": "摸鱼儿716本地在线化"
         },
         {
-            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/dongchen/dongchen.json",
-            "name": "东辰影视716本地在线化"
+            "url": "https://gitee.com/dongchenliu/liu/raw/master/hb.json",
+            "name": "东辰影视"
         },
         {
             "url": "https://6969.kstore.space/ck/jsm.json",
