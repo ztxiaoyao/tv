@@ -34,7 +34,7 @@
         },
         {
             "name": "晓宇专线",
-            "url": "https://gitee.com/xiaoyu91353/yingshicang/raw/master/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%8D%95%E4%BB%93.json"
+            "url": "https://gitee.com/xiaoyu91353/heihei/raw/master/tv.json"
         },
         {
             "name": "719",
