@@ -29,10 +29,6 @@
             "name": "PiG718本地在线化"
         },
         {
-            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-            "name": "微微线路"
-        },
-        {
             "name": "晓宇专线",
             "url": "https://gitee.com/xiaoyu91353/xyyy/raw/master/tv.json"
         },
