@@ -2,8 +2,12 @@
     "urls":
      [
         {
-            "name": "1",
-            "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
+            "name": "祝嫙宝宝的家人们开心每一天",
+            "url": "http://39.101.135.137:8080"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
         }
        
     ]
