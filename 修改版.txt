@@ -21,22 +21,29 @@
             "name": "摸鱼儿716本地在线化"
         },
         {
-            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/dongchen/dongchen.json",
-            "name": "东辰影视716本地在线化"
+            "url": "https://gitee.com/dongchenliu/liu/raw/master/hb.json",
+            "name": "东辰影视"
         },
         {
             "url": "https://6969.kstore.space/ck/jsm.json",
             "name": "PiG718本地在线化"
         },
         {
-            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/fty/fty.json",
-            "name": "饭太硬716本地在线化"
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "微微线路"
         },
         {
             "name": "晓宇专线",
-            "url": "https://gitee.com/xiaoyu91353/yingshicang/raw/master/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%8D%95%E4%BB%93.json"
+            "url": "https://gitee.com/xiaoyu91353/xyyy/raw/master/tv.json"
         },
-       
+        {
+            "name": "719",
+            "url": "https://json.qlkjy.cn/qb.json"
+        },
+        {
+            "name": "复刻",
+            "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json"
+        },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
@@ -51,7 +58,7 @@
         },
         {
             "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/box/tongyong.json",
-            "name": "廖叔线路"
+            "name": "鸟叔线路"
         },
         {
             "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json",
@@ -85,7 +92,10 @@
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
             "name": "圥忈专线"
         },
-      
+        {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
+            "name": "圥忈4k专线"
+        },
         {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
             "name": "短剧接口1"
@@ -106,7 +116,10 @@
             "url": "http://肥猫.com",
             "name": "专心养肥猫"
         },
-       
+        {
+            "url": "http://tv.999888987.xyz/",
+            "name": "放牛娃在线"
+        },
         {
             "url": "https://gitee.com/tanghengice/luge/raw/master/api",
             "name": "陆哥龙珠专用"
@@ -133,7 +146,7 @@
         },
         {
             "name": "🐟春盈天下备用🐟",
-            "url": "https://盒子迷.top/春盈天下"
+            "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/chunyin.json?ref=master"
         },
         {
             "url": "https://盒子迷.top/禁止贩卖",
