@@ -90,11 +90,11 @@
         },
         {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
-            "name": "短时剧接口1"
+            "name": "短视频接口1"
         },
         {
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
-            "name": "短时剧接口2"
+            "name": "短视频接口2"
         },
         {
             "url": "http://itvbox.cc/云星日记",
