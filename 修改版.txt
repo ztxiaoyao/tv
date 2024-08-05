@@ -29,8 +29,8 @@
             "name": "PiG718本地在线化"
         },
         {
-            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/fty/fty.json",
-            "name": "饭太硬716本地在线化"
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "天微线路"
         },
         {
             "name": "晓宇专线",
