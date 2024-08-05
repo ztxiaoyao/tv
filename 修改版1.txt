@@ -28,7 +28,10 @@
             "url": "https://6969.kstore.space/ck/jsm.json",
             "name": "PiG718本地在线化"
         },
-
+        {
+            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/fty/fty.json",
+            "name": "饭太硬716本地在线化"
+        },
         {
             "name": "晓宇专线",
             "url": "https://gitee.com/xiaoyu91353/xyyy/raw/master/tv.json"
