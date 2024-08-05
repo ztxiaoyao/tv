@@ -2,7 +2,7 @@
     "urls":
      [
         {
-            "name": "变更接口：",
+            "name": "变更接口",
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
         },
         {
