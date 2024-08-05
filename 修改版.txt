@@ -106,10 +106,7 @@
             "url": "http://肥猫.com",
             "name": "专心养肥猫"
         },
-        {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "放牛娃在线"
-        },
+       
         {
             "url": "https://gitee.com/tanghengice/luge/raw/master/api",
             "name": "陆哥龙珠专用"
