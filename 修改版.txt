@@ -4,10 +4,7 @@
         {
             "name": "变更",
             "url": "https://gitee.com/tanghengice/lugemovie/raw/master/tutu/tv.json"
-        },
-        {
-            "name": "https://gitee.com/ztxiaoyao/tv/raw/master/%E5%A4%9A%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3.json",
-            "url": "http://39.101.135.137:8080"
         }
+       
     ]
 }
