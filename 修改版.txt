@@ -86,15 +86,15 @@
         },
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
-            "name": "圥忈4k专线"
+            "name": "圥忈1080专线"
         },
         {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
-            "name": "短剧接口1"
+            "name": "dj接口1"
         },
         {
             "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
-            "name": "短剧接口2"
+            "name": "dj接口2"
         },
         {
             "url": "http://itvbox.cc/云星日记",
