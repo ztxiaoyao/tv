@@ -30,7 +30,7 @@
         },
         {
             "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-            "name": "天微"
+            "name": "tianwei线路"
         },
         {
             "name": "晓宇专线",
