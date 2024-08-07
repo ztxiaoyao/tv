@@ -1,0 +1,22 @@
+//此多仓接口列表为公众号【王小二放牛娃】 作者为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "http://yydsys.top/duo/v.json",
+            "name": "🔔切换线路后务必刷新接口"
+        },
+        {
+            "url": "http://tv.999888987.xyz/",
+            "name": "🍃一线"
+        },    
+       {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🍃二线"
+        },                      
+       {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🍃三线"
+        }
+    ]
+}
