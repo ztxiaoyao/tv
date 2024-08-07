@@ -1,16 +1,16 @@
 {
     "urls": [
         {
-            "name": "7.22收集各大佬群的源",
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "name": "807收集各大佬群的源",
             "url": "https://gitee.com/tanghengice/luge/raw/master/api"
         },
         {
             "name": "祝嫙宝宝的家人们开心每一天",
             "url": "http://39.101.135.137:8080"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "饭太硬"
         },
         {
             "url": "http://我不是.摸鱼儿.top",
@@ -41,7 +41,7 @@
             "url": "https://json.qlkjy.cn/qb.json"
         },
         {
-            "name": "复刻",
+            "name": "奇乐复刻",
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json"
         },
         {
