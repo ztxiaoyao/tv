@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/moyu%2Fmoyuer.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
+            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/moyu/Fmoyuer.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
             "name": "嫙宝影视"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "name": "奇乐复刻",
-            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/master/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json?access_token=edd14ec099a32f0f95c624b026cb7009"
+            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=master"
             
         },
         {
@@ -82,7 +82,7 @@
             "name": "黄金影视接口"
         },
         {
-            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/master/%E6%94%BE%E7%89%9B%E5%A8%83.json?access_token=edd14ec099a32f0f95c624b026cb7009",
+            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/fangniu%2Ffangniu.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
             "name": "放牛娃复刻"
         },
         {
