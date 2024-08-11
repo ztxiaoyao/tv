@@ -13,6 +13,14 @@
             "sourceUrl": " http://tv.nxog.top/nxog/ou1.php?b=欧歌"
         },
         {
+            "sourceName": "天微影视多仓库",
+            "sourceUrl": "http://tvkj.top/DC.txt"
+        },
+         {
+            "sourceName": "恒星影视多仓库",
+            "sourceUrl": "http://530.my3v.work/hxck.json"
+        },
+        {
             "sourceName": "星云日记多仓",
             "sourceUrl": "https://itvbox.cc/可视仓库/"
         },
@@ -53,10 +61,6 @@
             "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/ystvy/yydsy/master/x.txt"
         },
         {
-            "sourceName": "欧歌影视多仓库",
-            "sourceUrl": " http://tv.nxog.top/nxog/ou1.php?b=欧歌"
-        },
-        {
             "sourceName": "青木影视多仓库",
             "sourceUrl": "http://530.my3v.work/qm.json"
         },
@@ -73,16 +77,8 @@
             "sourceUrl": "http://39.101.135.137:8686/"
         },
         {
-            "sourceName": "恒星影视多仓库",
-            "sourceUrl": "http://530.my3v.work/hxck.json"
-        },
-        {
             "sourceName": "心动影视多仓库",
             "sourceUrl": "http://530.my3v.work/xdck.json"
-        },
-        {
-            "sourceName": "天微影视多仓库",
-            "sourceUrl": "http://tvkj.top/DC.txt"
         },
         {
             "sourceName": "毒盒多仓库",
