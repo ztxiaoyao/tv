@@ -93,6 +93,10 @@
             "name": "圥忈4k专线"
         },
         {
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-R.json",
+            "name": "圥忈4k线路2"
+        },
+        {
             "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
             "name": "短剧接口1"
         },
@@ -131,10 +135,6 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "pit潇洒线路"
-        },
-        {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-R.json",
-            "name": "圥忈4k线路加载慢"
         },
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
