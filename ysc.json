@@ -17,6 +17,10 @@
             "name": "4k秒开能用一天是一天"
         },
         {
+            "url": "http://tv.999888987.xyz/",
+            "name": "放牛娃在线"
+        },
+        {
             "url": "http://我不是.摸鱼儿.top",
             "name": "摸鱼儿"
         },
@@ -57,10 +61,6 @@
             "url": "https://gitee.com/xiaoyu91353/xyyy/raw/master/tv.json"
         },
         {
-            "name": "奇乐复刻",
-            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=master"
-        },
-        {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
             "name": "月光宝盒box"
         },
@@ -84,10 +84,7 @@
             "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/9d19a65e10b018b4624ab7ff3ee1326c5c69ef1e/hjys.free.json",
             "name": "黄金影视接口"
         },
-        {
-            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/fangniu%2Ffangniu.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
-            "name": "放牛娃复刻"
-        },
+
         {
             "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
             "name": "圥忈专线"
@@ -120,9 +117,13 @@
             "url": "http://肥猫.com",
             "name": "专心养肥猫"
         },
-        {
-            "url": "http://tv.999888987.xyz/",
-            "name": "放牛娃在线"
+         {
+            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/fangniu%2Ffangniu.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
+            "name": "放牛娃复刻"
+        },
+         {
+            "name": "奇乐复刻",
+            "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=master"
         },
         {
             "url": "https://gitee.com/tanghengice/luge/raw/master/api",
