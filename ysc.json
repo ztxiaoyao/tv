@@ -28,10 +28,7 @@
             "url": "http://fty.xxooo.cf/tv",
             "name": "饭太硬"
         },
-        {
-            "url": "https://gitee.com/chenrun1984/4k/raw/master/%E4%BA%91%E4%BB%93%E6%96%B0.json",
-            "name": "云仓4k"
-        },
+       
         {
             "url": "http://www.xzwl.top/祥子影视/main/xzys2024.json",
             "name": "祥子影视4K"
@@ -82,15 +79,15 @@
         },
 
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json?ref_type=heads",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-SC.json",
             "name": "圥忈专线"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Fy.json",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ab.json",
             "name": "圥忈4k专线"
         },
         {
-            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-R.json",
+            "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-19+.json",
             "name": "圥忈4k线路2"
         },
         {
