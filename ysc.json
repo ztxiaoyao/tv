@@ -37,19 +37,6 @@
             "url": "https://盒子迷.top/4k",
             "name": "盒子迷4k"
         },
-        
-        {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json ",
-            "name": "月光宝盒box"
-        },
-        {
-            "name": "豆瓣小白龙",
-            "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/a1.json"
-        },
-        {
-            "url": "https://gitee.com/zizuzile/yule/raw/master/YL/%E6%B0%B8%E6%81%92.json",
-            "name": "永恒线路"
-        },
         {
             "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json",
             "name": "展昭线路"
@@ -76,11 +63,7 @@
             "name": "圥忈4k线路2"
         },
         {
-            "url": "https://gitee.com/haohao1992/haohao/raw/master/tvbox/dj.json",
-            "name": "短剧接口1"
-        },
-        {
-            "url": "https://gitlab.com/mfkdy/vip/-/raw/main/duanju.json",
+            "url": "https://gitlab.com/mfkdy/cy/-/raw/main/duanju.json",
             "name": "短剧接口2"
         },
         {
