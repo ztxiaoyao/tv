@@ -73,15 +73,6 @@
             "name": "🍚动漫",
             "url": "https://gitlab.com/mfkdy/cy/-/raw/main/dongman.json"
         },
-       
-        {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
-            "name": "汤影视线路"
-        },
-        {
-            "url": "http://肥猫.com",
-            "name": "专心养肥猫"
-        },
         {
             "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tvbox/raw/fangniu%2Ffangniu.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
             "name": "放牛娃复刻"
@@ -89,14 +80,6 @@
         {
             "name": "奇乐复刻",
             "url": "https://gitee.com/api/v5/repos/ztxiaoyao/tv/raw/%E5%A5%87%E4%B9%90%E7%A7%91%E6%8A%80719.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=master"
-        },
-        {
-            "url": "https://gitee.com/tanghengice/luge/raw/master/api",
-            "name": "陆哥龙珠专用"
-        },
-        {
-            "url": "https://gitee.com/tanghengice/luge/raw/master/yunying",
-            "name": "陆哥云映专用"
         },
         {
             "url": "https://gitee.com/ztxiaoyao/tv/raw/master/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.json",
