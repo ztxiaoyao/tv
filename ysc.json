@@ -73,10 +73,7 @@
             "name": "🍚动漫",
             "url": "https://gitlab.com/mfkdy/cy/-/raw/main/dongman.json"
         },
-        {
-            "url": "http://itvbox.cc/云星日记",
-            "name": "云星日记"
-        },
+       
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
             "name": "汤影视线路"
