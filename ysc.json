@@ -25,6 +25,10 @@
             "url": "http://fty.xxooo.cf/tv",
             "name": "饭太硬"
         },
+         {
+            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/%E7%8E%8B%E5%B0%8F%E4%BA%8C312/api.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
+            "name": "放牛娃复刻312"
+        },
         {
             "url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt",
             "name": "️恒星4K"
@@ -72,10 +76,6 @@
         {
             "name": "🍚动漫",
             "url": "https://gitlab.com/mfkdy/cy/-/raw/main/dongman.json"
-        },
-        {
-            "url": "https://gitee.com/ztxiaoyao/tvbox/raw/main/%E7%8E%8B%E5%B0%8F%E4%BA%8C312/api.json?access_token=edd14ec099a32f0f95c624b026cb7009&ref=main",
-            "name": "放牛娃复刻"
         },
         {
             "name": "奇乐复刻",
